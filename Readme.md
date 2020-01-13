@@ -3,18 +3,14 @@
 
 **The Personal MS(DS)** is an initiative to customize the Data Science Masters roadmap according to one's interests hence providing complete autonomy to the learner. The intuition behind **#thepersonalmsds** is to upgrade skills without formally enrolling into a Master's program at a University. ThePersonalMSDS (beta) is an amalgam of handpicked content taught at different Pakistan-based and International universities based on the student’s feedback. Majority of the content mentioned in **#thepersonalmsds** can be easily found online. Most of the topics revolve around Mathematics, Statistics, Machine Learning, Deep Learning, Data Science, AWS Cloud Services, and Big Data. Each mini-semester revolves around a particular domain; each mini-semester contains a hand-full of languages, frameworks and libraries.
 
-[**Company**](https://www.linkedin.com/company/thepersonalmsds/) | [**Facebook**](https://lnkd.in/fXfJczp)
-| [**Founder**](https://www.linkedin.com/in/muhammadhamzajaved/)
-
-![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/cover.jpg "So, thepersonalMSDS Begins!")
+[**Company**](https://www.linkedin.com/company/thepersonalmsds/) | [**Facebook**](https://lnkd.in/fXfJczp) | [**Founder**](https://www.linkedin.com/in/muhammadhamzajaved/)
 
 
 ### Links that you should keep visiting
 | Important Links | Link |
 | -- | -- | 
-| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
-| My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
-| Tedtalks - Making Sense of too much data | [Click here!](https://www.ted.com/playlists/56/making_sense_of_too_much_data) |
+| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/EshbanTheLearner/thepersonalmsds/blob/master/todayilearned.md)
+| My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/EshbanTheLearner/100DaysofMLCode) |
 --------------------------------------
 
 ## List of Participants
@@ -22,11 +18,12 @@
 - [Muhammad Hamza Javed [Initiator]](https://www.linkedin.com/in/muhammadhamzajaved/)
 - [Saifullah Katpar](https://www.linkedin.com/in/saifullahkatpar)
 - [Tausif Kazi](https://www.linkedin.com/in/tausifkazi/)
-
+- [Eshban Suleman](https://www.linkedin.com/in/eshban-suleman-624a49113/)
 ## Want to take the challenge?
 
 [Getting Started with thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/How-to-Start/Getting-Started.md)
 
+<!--
 ### Course wise content and self-studying material
 #### This contain links to all the relevant books, courses, videos and specializations
 | Course Title | Link |
@@ -94,7 +91,7 @@ Recent Accomplishments as of 2019:
 
 Contact: [Linkedin](http://linkedin.com/in/MuhammadHamzaJaved) | [Kaggle](https://www.kaggle.com/hamzajaved) | [Facebook](https://facebook.com/mhjhamza) | [Packt](https://www.packtpub.com/authors/muhammad-hamza-javed)
 
-
+-->
 
 ## Metadata
 *Content-Types: Books, Coursera, Udemy, Packt, Youtube, Articles, and Tedtalk*

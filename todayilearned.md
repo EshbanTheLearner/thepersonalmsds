@@ -1,22 +1,21 @@
 # Today I Learned (TIL)
 
-**Caution: This timeline is tailored for @mhjhamza and might not be suitable for everyone.**
+**Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
 
-## Pilot | August 12, 2019 | Monday
+## Pilot | January 13, 2020 | Monday
 
 **Today's Progress:** 
 
 - Setup Repository for #thepersonalmsds
 - Created template for Social Media
-- Facebook Page setup
-- Enroled in PySpark Course @Udemy
+- Enroled in Stanford University's Probability & Statistics Course
 
 **Description:** *None*
 
-**Important Links:** [Udemy | Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+**Important Links:** [Stanford | Probability & Statistics](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/course/)
 
-
+<!--
 ## Day 01 | August 13, 2019 | Tuesday
 
 **Today's Progress:** Learning PySpark!
@@ -857,3 +856,4 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 - Amazon Cognito 
 - User Pool & Federated Identities
 - AWS Services Access Control
+-->
