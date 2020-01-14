@@ -15,6 +15,21 @@
 
 **Important Links:** [Stanford | Probability & Statistics](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/course/)
 
+## Day 01 | January 14, 2020 | Tuesday
+
+**Today's Progress:**
+
+**Description:** This includes the following:
+- Introduction to Statistics
+- Exploratory Data Analysis Overview
+  - Data and Variables
+  - Scales of Measurement
+  - Examining Distributions
+- One Categorical Variable
+  - Frequency Distributions
+  - Pie and Bar Charts
+  - Pictograms
+
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
