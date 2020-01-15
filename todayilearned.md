@@ -17,7 +17,7 @@
 
 ## Day 01 | January 14, 2020 | Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Got a formal intro to statistics, learned about Exploratory Data Analysis and One Categorical Variable
 
 **Description:** This includes the following:
 - Introduction to Statistics
@@ -30,6 +30,18 @@
   - Pie and Bar Charts
   - Pictograms
 
+## Day 02 | January 1, 2020 | Wednesday
+
+**Today's Progress:** Learned about uni-quantitative variable and how to represent it using Histogram and Stemplot. Also learned about how to interpret these grpahs for further insights.
+
+**Description:** This includes the following:
+- One Quantitative Variable: Graphs
+  - Introduction
+  - Histogram
+    - Intervals
+    - Shape
+    - Center, Spread, and Outliers
+  - Stemplot
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
