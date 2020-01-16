@@ -30,7 +30,7 @@
   - Pie and Bar Charts
   - Pictograms
 
-## Day 02 | January 1, 2020 | Wednesday
+## Day 02 | January 15, 2020 | Wednesday
 
 **Today's Progress:** Learned about uni-quantitative variable and how to represent it using Histogram and Stemplot. Also learned about how to interpret these grpahs for further insights.
 
@@ -42,6 +42,18 @@
     - Shape
     - Center, Spread, and Outliers
   - Stemplot
+
+## Day 03 | January 16, 2020 | Thursday
+**Today's Progress:** Learned how to quantify the center and spread of distribution with various numerical measures, some of the properties of those numerical measures; and how to choose the appropriate numerical measures of center and spread to supplement the histogram.
+
+**Description:** This includes the following:
+- One Quantitative Variable: Measures of Center
+  - Introduction
+  - Mode
+  - Median
+  - Mean
+  - Comparison b/w Mean and Median
+
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
