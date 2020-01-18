@@ -75,6 +75,17 @@
     - Standard Deviation Rule
 - WrapUp: EDA
 
+## Day 05 | January 18, 2020 | Saturday
+**Today's Progress:** Today I learned about how examine relationships between 2 variables using visual displays and numerical summaries. 
+
+**Description:** These includes following topics:
+- EDA: Examining Relationships
+- Exploring Two Variables: Explanatory and Response
+- Role-Type Classification
+- Case C → Q
+  - Introduction
+  - Applications
+
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
