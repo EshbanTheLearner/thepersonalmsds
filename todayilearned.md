@@ -86,6 +86,15 @@
   - Introduction
   - Applications
 
+## Day 06 | January 19, 2020 | Sunday
+**Today's Progress:** Today I learned about the C → C relationship between two categorical variables. Building a two-way table and interpreting the information stored in it about the association between two categorical variables by comparing conditional percentages.
+
+**Description:** Following topics were covered:
+- Case C → C
+  - Two Categorical Variables
+  - Conditional Percents
+  - Excercies
+
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
