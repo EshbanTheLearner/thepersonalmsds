@@ -93,7 +93,7 @@
 - Case C → C
   - Two Categorical Variables
   - Conditional Percents
-  - Excercies
+  - Exercises
 
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
