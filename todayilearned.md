@@ -95,6 +95,20 @@
   - Conditional Percents
   - Exercises
 
+## Day 07 | January 20, 2020 | Monday
+**Today's Progress:** Today I learned how to graphically display the relationship between two quantitative variables and describe: a) the overall pattern and b) striking deviations from the pattern.
+
+**Description:** Following topics were covered:
+- Case Q → Q
+  - Two Quantitative Variables
+  - Scatterplots
+    - Introduction
+    - Interpretation
+    - Examples
+    - Labeled
+    - Exercises
+
+
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
