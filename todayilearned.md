@@ -122,7 +122,17 @@
   - Intercept and Slope
   - Predictions
 
+## Day 09 | January 22, 2020 | Wednesday
+**Today's Progress:**
 
+**Description:**
+- AWS Builders Online Series
+  - Introductory Guide to AWS Cost Management and Efficiency
+  - Move Fast & Be Secure on AWS Cloud
+  - AWS Purpose-Built Database Strategy: The Right Tool for The Right Job
+  - Host your Static Website on Amazon Simple Storage Service (S3)
+  - Building Serverless Applications that Scale
+- Project Management Professional Certification: Introduction
 
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
