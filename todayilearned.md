@@ -108,6 +108,21 @@
     - Labeled
     - Exercises
 
+## Day 08 | January 21, 2020 | Tuesday
+**Today's Progress:** Today I learned about a special case of the relationship between two quantitative variables is the linear relationship. In this case, a straight line simply and adequately summarizes the relationship. When the scatterplot displays a linear relationship, we supplement it with the correlation coefficient (r). The least-squares regression line has the smallest sum of squared vertical deviations of the data points from the line. Extrapolation is the prediction of values of the explanatory variable that falls outside the range of the data.
+
+**Description:** Following topics were covered:
+- Case Q → Q: Linear Relationships
+  - Introduction
+  - Correlation
+    - R - Coefficient of Correlation
+    - Properties of R
+  - Regression
+  - Least Squares Regression
+  - Intercept and Slope
+  - Predictions
+
+
 
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
