@@ -144,6 +144,16 @@
   - Confounds
   - Simpson's Paradox
 
+## Day 11 | January 24, 2020 | Friday
+
+**Today's Progress:** Today I summarized how to explore the relationship between the explanatory and response variables using visual displays and numerical measures, and how to choose what kind of measure to use based on the role-type classification of the two variables. I also emphasized how important it is to interpret any observed association in the context of the problem, but NOT to be tempted to interpret association as causation, due to the possible presence of lurking variables.
+
+
+**Description:** This includes the following:
+- Wrap-Up: Examining Relationships
+- Summary: EDA
+
+
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
 
