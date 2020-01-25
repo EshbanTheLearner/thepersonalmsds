@@ -153,6 +153,22 @@
 - Wrap-Up: Examining Relationships
 - Summary: EDA
 
+## Day 12 | January 25, 2020 | Saturday
+
+**Today's Progress:** Today I learned various techniques by which one can choose a sample of individuals from an entire population to collect data from. This is seemingly a simple step in the big picture of statistics, but it turns out that it has a crucial effect on the conclusions we can draw from the sample about the entire population.
+
+**Description:** This includes the following:
+- Producing Data: Sampling
+- Types of Samples
+  - Volunteer Sample
+  - Convenience Sample
+  - Sampling Frame
+  - Systematic Sampling
+- Probability Sampling Plans
+  - Simple Random Sampling
+  - Cluster Sampling
+  - Stratified Sampling 
+- Wrap-Up: Sampling
 
 <!--
 ## Day 01 | August 13, 2019 | Tuesday
