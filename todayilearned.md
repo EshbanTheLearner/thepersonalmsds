@@ -14,6 +14,10 @@
   - Training and Tunning
   - Prediction
 
+**Important Links:** 
+- [Certificate | Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/TGGZDVYQQF7F)
+- [Certificate | TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/MCZZWYTTM3QP)
+
 
 ## Day 16 | January 29, 2020 | Wednesday
 
