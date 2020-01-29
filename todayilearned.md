@@ -2,6 +2,19 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 17 | January 30, 2020 | Thursday
+
+**Today's Progress:** Today I learned to use Convolutions on top of DNNs and RNNs and then put it all together using a real-world data series -- one which measures sunspot activity over hundreds of years.
+
+**Description:** This includes the following:
+- **Week 4:** Real-World Time Series Data
+  - Convolutions
+  - Bi-Directional LSTMs
+  - Batch Sizing
+  - Training and Tunning
+  - Prediction
+
+
 ## Day 16 | January 29, 2020 | Wednesday
 
 **Today's Progress:** Having explored time series and some of the common attributes of time series such as trend and seasonality, and then having used statistical methods for projection, today I learned neural networks to recognize and predict on time series. I also learned that Recurrent Neural networks and Long Short Term Memory networks are really useful to classify and predict on sequential data.
