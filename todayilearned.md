@@ -2,6 +2,19 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 18 | January 31, 2020 | Friday
+
+**Today's Progress:** Today I learned how the study design impacts the types of conclusions that can be drawn. Also learned to determine how the features of a survey impact the collected data and the accuracy of the data.
+
+**Description:** This includes the following:
+- Observational Studies
+  - Caustaion and Observational Studies
+    - Lurking Variables
+    - Other Pitfalls
+  - Design Issues
+  - Summary
+
+
 ## Day 17 | January 30, 2020 | Thursday
 
 **Today's Progress:** Today I learned to use Convolutions on top of DNNs and RNNs and then put it all together using a real-world data series -- one which measures sunspot activity over hundreds of years.
