@@ -2,6 +2,18 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 19 | February 1, 2020 | Saturday
+
+**Today's Progress:** Today I learned how to identify the design of a study (controlled experiment vs. observational study) and other features of the study design (randomized, blind etc.).
+
+**Description:** This includes the following:
+- Experiments: One Explanatory Variable
+  - Caustaion and Experiments
+    - Randomized Controll Experiments
+    - Inclusion of a Control Group
+  - Blind and Double-Blind Experiments
+  - Pitfalls
+
 ## Day 18 | January 31, 2020 | Friday
 
 **Today's Progress:** Today I learned how the study design impacts the types of conclusions that can be drawn. Also learned to determine how the features of a survey impact the collected data and the accuracy of the data.
