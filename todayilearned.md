@@ -2,6 +2,19 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 25 | February 7, 2020 | Friday
+
+**Today's Progress:** Today I learned about the reasoning behind conditional probability, and how this reasoning is expressed by the definition of conditional probability. Also learned to find conditional probabilities and interpret them, and determine whether two events are independent or not.
+
+**Description:** This includes the following:
+- Conditional Probability
+  - Reasoning
+  - Definition
+- Independence Check
+  - Compare P(B | A) and P(B)
+  - Other Methods
+
+
 ## Day 24 | February 6, 2020 | Thursday
 
 **Today's Progress:** Today I learned how to apply probability rules in order to find the likelihood of an event. I also learned to use tools such as Venn diagrams or probability tables as aids for finding probabilities, when appropriate.
