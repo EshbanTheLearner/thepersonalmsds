@@ -2,7 +2,7 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
-## Day 25 | February 7, 2020 | Friday
+## Day 26 | February 8, 2020 | Saturday
 
 **Today's Progress:** Today I learned to use the General Multiplication Rule to find the probability that two events occur (P(A and B)) and to use probability trees as a tool for finding probabilities.
 
