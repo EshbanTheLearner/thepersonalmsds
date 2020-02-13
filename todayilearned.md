@@ -2,6 +2,17 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 30 | February 12, 2020 | Wednesday
+
+**Today's Progress:** Today I continued on the first course of the Tensorflow: Data and Deployment Specialization.
+
+**Description:** This includes the following:
+- **Week 4**
+  - Train a model in your web browser by using images captured via a webcam
+  - Apply transfer learning to train a model to recognize hand gestures of rock, paper, and scissors
+  - Apply transfer learning to train a model to recognize hand gestures of rock, paper, scissors, lizard, and spock
+
+
 ## Day 29 | February 11, 2020 | Tuesday
 
 **Today's Progress:** Today I continued on the first course of the Tensorflow: Data and Deployment Specialization.
