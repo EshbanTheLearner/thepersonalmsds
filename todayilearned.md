@@ -3,6 +3,17 @@
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
 
+## Day 33 | February 15, 2020 | Sunday
+
+**Today's Progress:** Today I learned to use the normal distribution as an approximation of the binomial distribution, when appropriate.
+
+**Description:** This includes the following:
+- Normal Random Variables
+  - Applications 
+    - Approximation to Binomial
+    - Continuity Correction
+- Wrap-Up: Random Variable
+
 ## Day 33 | February 15, 2020 | Saturday
 
 **Today's Progress:** Today I learned to explain how a density function is used to find probabilities involving continuous random variables. I also learned to find probabilities associated with the normal distribution.
