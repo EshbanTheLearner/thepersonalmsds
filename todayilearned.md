@@ -3,7 +3,7 @@
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
 
-## Day 33 | February 15, 2020 | Sunday
+## Day 34 | February 16, 2020 | Sunday
 
 **Today's Progress:** Today I learned to use the normal distribution as an approximation of the binomial distribution, when appropriate.
 
