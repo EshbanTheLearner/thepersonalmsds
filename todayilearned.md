@@ -2,6 +2,21 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 35 | February 17, 2020 | Monday
+
+**Today's Progress:** Today I enrolled in **Taming Big Data with Apache Spark and Python - Hands On!** course on udemy.
+
+**Description:** This includes the following:
+- Getting Started with Spark
+  - Introduction to course
+  - Setting up the Environment
+  - Running First Spark Program
+    - Ratings Histogram for MovieLens Movie Rating Dataset
+
+**Important Links:** 
+- [Udemy | Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/)
+
+
 
 ## Day 34 | February 16, 2020 | Sunday
 
