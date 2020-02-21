@@ -2,6 +2,18 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 39 | February 21, 2020 | Friday
+
+**Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
+
+**Description:** This includes the following:
+- Intro to SparkSQL
+- DataFrame:
+  - Executing SQL commands
+  - SQL-style function
+- Using DataFrame instead of RDDs
+
+
 ## Day 38 | February 20, 2020 | Thursday
 
 **Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
