@@ -2,6 +2,38 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 42 | February 24, 2020 | Tuesday
+
+**Today's Progress:** Today I enrolled in **Artificial Intelligence for Business** course on udemy.
+
+**Description:** This includes the following:
+- Introduction to Course
+- **Part-1: Optimizing Business Process**
+  - Case Study: *Optimizing the Flows in an E-Commerce Warehouse*
+    - Problem to Solve
+    - Environment to Define
+      1. Defining States
+      2. Defining Actions
+      3. Defining Reward Function
+  - AI Solution
+    - Intro to Reinforcement Learning
+    - The Bellman Equation
+    - The "Plan"
+    - Markov Decision Process (MDP)
+      1. Deterministic Search
+      2. Non-Deterministic Search
+    - Policy vs Plan
+    - Adding a "Living Penalty"
+    - Q-Learning: Intuition
+    - Temporal Difference
+    - Q-Learning: Visualization
+  - Implementation in Python
+
+**Important Links:** 
+[Udemy | Artificial Intelligence for Business](https://www.udemy.com/course/ai-for-business/)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)	
+
+
 ## Day 41 | February 23, 2020 | Sunday
 
 **Today's Progress:** Today I ended and reviewed the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
