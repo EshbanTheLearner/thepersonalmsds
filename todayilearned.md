@@ -2,7 +2,26 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
-## Day 42 | February 24, 2020 | Tuesday
+## Day 43 | February 25, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Artificial Intelligence for Business** course on udemy.
+
+**Description:** This includes the following:
+- **Part-2: Minimizing Costs**
+  - Case Study: *Minimizing Costs in Energy Consumption of a Data Center*
+    - Problem to Solve
+    - Environment to Define
+      1. Defining States
+      2. Defining Actions
+      3. Defining Reward Function
+  - AI Solution
+    - Deep Q-Learning: Intuition
+    - Deep Q-Learning: Action
+    - Experience Replay
+    - Action Selection Policies
+  - Implementation in Python
+
+## Day 42 | February 24, 2020 | Monday
 
 **Today's Progress:** Today I enrolled in **Artificial Intelligence for Business** course on udemy.
 
