@@ -2,6 +2,16 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 45 | February 27, 2020 | Thursday
+
+**Today's Progress:** Today I continued with the **Artificial Intelligence for Business** course on udemy.
+
+**Description:** This includes the following:
+- **Part-3: Maximizing Revenue**
+  - AI Solution
+    - The Multi-Armed Bandit Problem
+    - Thompson Sampling
+  - Implementation in Python
 ## Day 44 | February 26, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Artificial Intelligence for Business** course on udemy.
