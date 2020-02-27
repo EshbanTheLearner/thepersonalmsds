@@ -2,6 +2,19 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 44 | February 26, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Artificial Intelligence for Business** course on udemy.
+
+**Description:** This includes the following:
+- **Part-3: Maximizing Revenue**
+  - Case Study: *Maximizing Revenue of an Online Retail Business*
+    - Problem to Solve
+    - Environment to Define
+      1. Defining States
+      2. Defining Actions
+      3. Defining Reward Function
+
 ## Day 43 | February 25, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Artificial Intelligence for Business** course on udemy.
