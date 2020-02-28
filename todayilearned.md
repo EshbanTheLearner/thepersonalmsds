@@ -2,6 +2,27 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+
+## Day 46 | February 29, 2020 | Friday
+
+**Today's Progress:** Today I ended and reviewed the **Artificial Intelligence for Business** course on Udemy.
+- OPTIMIZE BUSINESS PROCESSES
+  - Implement Q-Learning
+  - Build an Optimization Model
+  - Maximize Efficiency
+- MINIMIZE COSTS
+  - Implement Deep Q-Learning
+  - Build an AI Environment from scratch
+  - Build an Artificial Brain
+  - Master the General AI Framework
+  - Save and Load a model
+  - Implement Early Stopping
+- MAXIMIZE REVENUES
+  - Implement Thompson Sampling
+  - Leverage AI to make the best decision
+  - Implement Online Learning
+  - Implement Regret Analysis
+
 ## Day 45 | February 27, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **Artificial Intelligence for Business** course on udemy.
