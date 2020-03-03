@@ -2,6 +2,24 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 50 | March 3, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- **Part 14: Markowitz Portfolio Optimization**
+  - Markowitz Portfolio Theory
+    - Single Investment vs Diversified Potfolio
+    - Markowitz Efficient Frontier
+  - Implementation in Python
+    - Calculating Expected Portfolio Return
+    - Calculating Expected Portfolio Variance
+    - Calculating Expected Portfolio Volatility
+    - Calculating Markowitz Efficient Frontier
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+
 ## Day 49 | March 2, 2020 | Monday
 
 **Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
