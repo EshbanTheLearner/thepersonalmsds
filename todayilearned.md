@@ -2,6 +2,33 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 51 | March 4, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- **Part 15: The Capital Asset Pricing Model**
+  - The Capital Asset Pricing Model
+    - Market Portfolio
+    - Risk Free Asset
+    - Beta Coefficient
+    - Capital Market Line
+    - Market Risk Premium
+  - Sharpe Ratio
+  - Achieving Alpha
+  - Types of Investment Strategies
+    - Passive Investing
+    - Active Investing
+    - Arbitrage Trading
+    - Value Investing
+  - Implementation in Python
+    - Calculating Beta of a Stock
+    - Calculating CAPM of a Stock
+    - Calculating Sharpe Ratio
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+
 ## Day 50 | March 3, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
