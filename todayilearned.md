@@ -2,6 +2,40 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 57 | March 9, 2020 | Tuesday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Working with Time Series in Python
+  - White Noise
+    1. Constant Mean
+    2. Constant Variance
+    3. No Autocorrelation
+  - Random Walk
+    - Market Efficiency
+    - Arbitrage
+  - Stationary
+    - Covariance Stationary
+      1. Constant Mean
+      2. Constant Variance
+      3. Consistent Covariance b/w different Time Periods
+    - Determining Weak Form Stationary
+      1. Dickey-Fuller Test
+  - Seasonality
+    - Decomposition
+      - Trend
+      - Seasonal
+      - Residual
+    - Naive Decomposition
+      1. Additive
+      2. Multiplicative
+  - Autocorrelation
+    - AutoCorrelation Function (ACF)
+    - Partial AutoCorrelation Function (PACF)
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 56 | March 9, 2020 | Monday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
