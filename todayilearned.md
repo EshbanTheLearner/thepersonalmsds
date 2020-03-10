@@ -2,6 +2,22 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 56 | March 9, 2020 | Monday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Creating a Time Series Object
+  - Transforming String Inputs into DateTime Values
+  - Using Date as an Index
+  - Setting the Frequency
+  - Filling Missing Values
+  - Adding and Removing Columns in DataFrame
+  - Splitting Up the Data
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 55 | March 8, 2020 | Sunday
 
 **Today's Progress:** Today I enrolled in **Time Series Analysis in Python 2020** course on udemy.
