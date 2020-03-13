@@ -2,6 +2,22 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 59 | March 11, 2020 | Thursday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Modelling AutoRegression
+  - AR Model
+  - ACF & PACF
+  - Dicky-Fuller Test
+  - LLR Test
+  - Error Analysis w/ Residuals
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+
 ## Day 58 | March 10, 2020 | Wednesday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
@@ -13,9 +29,6 @@
     - Log-Liklihood Ratio Test
     - AIC & BIC
   - Residuals
-
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
-
 
 ## Day 57 | March 9, 2020 | Tuesday
 
