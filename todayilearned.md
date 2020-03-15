@@ -2,6 +2,21 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 61 | March 13, 2020 | Saturday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- The ARMA Model
+  - The AutoRegressive Moving Average (ARMA) Model
+  - Fitting a Simple ARMA Model
+  - Fitting Higher-Lag ARMA Model
+  - Examining the ARMA Model Residuals
+  - ARMA Models and Non-Stationary Data
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 60 | March 12, 2020 | Friday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
