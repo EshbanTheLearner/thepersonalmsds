@@ -2,6 +2,30 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 62 | March 14, 2020 | Sunday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- The ARIMA Model
+  - The AutoRegressive Integrated Moving Average (ARIMA) Model
+  - Fitting a Simple ARIMA Model
+  - Fitting Higher-Lag ARIMA Model
+  - Higher Levels of Integration
+  - Outdide Factors
+    - Exogeneous Variables
+    - ARMAX
+    - ARIMAX
+  - Seasonal Models
+    - SARMA
+    - SARIMA
+    - SARIMAX
+  - Predicting Stability
+    - Volatility & Variance
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 61 | March 13, 2020 | Saturday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
