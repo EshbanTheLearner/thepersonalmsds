@@ -2,6 +2,23 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 63 | March 15, 2020 | Monday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- The ARCH Model
+  - The AutoRegressive Conditional Heteroskedasticity (ARCH) Model
+  - Volatility
+    - EGARCH
+  - Fitting a Simple ARCH Model
+  - Fitting Higher Lag ARCH Model
+  - Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) Model
+    - Volatility Clustering
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 62 | March 14, 2020 | Sunday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
