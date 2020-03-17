@@ -2,7 +2,22 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
-## Day 63 | March 15, 2020 | Monday
+## Day 64 | March 17, 2020 | Tuesday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- The Auto ARIMA Model
+  - The Auto AutoRegressive Integrated Moving Average (ARIMA) Model
+    - Manual vs Automatic Empirical Analysis
+    - Pros & Cons
+  - Fitting Default Best Fit Auto ARIMA Model
+  - Auto ARIMA with Custom Arguments
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+## Day 63 | March 16, 2020 | Monday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
@@ -19,7 +34,7 @@
 
 [Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
-## Day 62 | March 14, 2020 | Sunday
+## Day 62 | March 15, 2020 | Sunday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
@@ -43,7 +58,7 @@
 
 [Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
-## Day 61 | March 13, 2020 | Saturday
+## Day 61 | March 14, 2020 | Saturday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
@@ -58,7 +73,7 @@
 
 [Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
-## Day 60 | March 12, 2020 | Friday
+## Day 60 | March 13, 2020 | Friday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
@@ -75,7 +90,7 @@
 [Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
 
-## Day 59 | March 11, 2020 | Thursday
+## Day 59 | March 12, 2020 | Thursday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
@@ -91,7 +106,7 @@
 [Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
 
-## Day 58 | March 10, 2020 | Wednesday
+## Day 58 | March 11, 2020 | Wednesday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
@@ -103,7 +118,7 @@
     - AIC & BIC
   - Residuals
 
-## Day 57 | March 9, 2020 | Tuesday
+## Day 57 | March 10, 2020 | Tuesday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
 
