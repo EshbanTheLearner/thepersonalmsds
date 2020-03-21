@@ -41,6 +41,7 @@
 
 **Important Links:**
 [Coursera | Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) 
+
 [Coursera | Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering)
 
 ## Day 67 | March 20, 2020 | Friday
