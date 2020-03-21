@@ -2,6 +2,23 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 66 | March 19, 2020 | Thursday
+
+**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Business Case: Automobile Industry
+  - Analysing the data leading up to the Volkswagen buyout of Porsche
+  - In Retrospect Approach
+  - The Dieselgate Scandal
+  - Auto ARIMA
+  - Predictions using Exogenous Variables
+  - Measuring Volatility
+  - GARCH
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+
 ## Day 65 | March 18, 2020 | Wednesday
 
 **Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
