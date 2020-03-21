@@ -2,9 +2,30 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 67 | March 20, 2020 | Friday
+
+**Today's Progress:** Today I ended and reviewd the **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** I learned following things:
+- Differentiate between time series data and cross-sectional data.
+- Understand the fundamental assumptions of time series data and how to take advantage of them.
+- Transforming a data set into a time-series.
+- Start coding in Python and learn how to use it for statistical analysis.
+- Carry out time-series analysis in Python and interpreting the results, based on the data in question.
+- Examine the crucial differences between related series like prices and returns.
+- Comprehend the need to normalize data when comparing different time series.
+- Encounter special types of time series like White Noise and Random Walks.
+- Learn about "autocorrelation" and how to account for it.
+- Learn about accounting for "unexpected shocks" via moving averages.
+- Discuss model selection in time series and the role residuals play in it.
+- Comprehend stationarity and how to test for its existence.
+- Acknowledge the notion of integration and understand when, why and how to properly use it.
+- Realize the importance of volatility and how we can measure it.
+- Forecast the future based on patterns observed in the past.
+
 ## Day 66 | March 19, 2020 | Thursday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Business Case: Automobile Industry
@@ -21,7 +42,7 @@
 
 ## Day 65 | March 18, 2020 | Wednesday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Forecasting
@@ -40,7 +61,7 @@
 
 ## Day 64 | March 17, 2020 | Tuesday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - The Auto ARIMA Model
@@ -55,7 +76,7 @@
 
 ## Day 63 | March 16, 2020 | Monday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - The ARCH Model
@@ -72,7 +93,7 @@
 
 ## Day 62 | March 15, 2020 | Sunday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - The ARIMA Model
@@ -96,7 +117,7 @@
 
 ## Day 61 | March 14, 2020 | Saturday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - The ARMA Model
@@ -111,7 +132,7 @@
 
 ## Day 60 | March 13, 2020 | Friday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Adjusting to Shocks The MA Model
@@ -128,7 +149,7 @@
 
 ## Day 59 | March 12, 2020 | Thursday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Modelling AutoRegression
@@ -144,7 +165,7 @@
 
 ## Day 58 | March 11, 2020 | Wednesday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Picking the Correct Model
@@ -156,7 +177,7 @@
 
 ## Day 57 | March 10, 2020 | Tuesday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Working with Time Series in Python
@@ -191,7 +212,7 @@
 
 ## Day 56 | March 9, 2020 | Monday
 
-**Today's Progress:** Today I continued in **Time Series Analysis in Python 2020** course on udemy.
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
 
 **Description:** This includes the following:
 - Creating a Time Series Object
