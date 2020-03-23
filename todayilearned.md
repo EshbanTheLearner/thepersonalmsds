@@ -2,12 +2,37 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 70 | March 23, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 3**
+  - Introduction to BigQuery
+    - Fast SQL Query Engine
+    - Managed Storage for Datasets
+  - Insights from Geographic Data
+  - Machine Learning on Structured Data
+    - Choosing the right model type
+    - Scenario: Predicting Customer Lifetime Value
+  - Creating ML Models with SQL
+    - Introduction to BigQuery ML
+    - ML Projects Phases
+    - Key Features Walkthrough
+  - **Lab 3 (BigQuery ML)**
+    - Use BigQuery to find public datasets
+    - Query and explore the ecommerce dataset
+    - Create a training and evaluation dataset to be used for batch prediction
+    - Create a classification (logistic regression) model in BQML
+    - Evaluate the performance of your machine learning model
+    - Predict and rank the probability that a visitor will make a purchase
+
 ## Day 69 | March 22, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
 
 **Description:** This includes the following:
-- **Week-1: Module 2**
+- **Week 1: Module 2**
   - Recommendation Systems
     - Data
     - Model
@@ -24,7 +49,7 @@
     - Hive
     - Pig
     - Spark
-  - Lab 2 (Recommendation System)
+  - **Lab 2 (Recommendation System)**
     - Create Cloud SQL instance
     - Create database tables by importing .sql files from Cloud Storage
     - Populate the tables by importing .csv files from Cloud Storage
@@ -37,7 +62,7 @@
 **Today's Progress:** Today I enrolled in the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
 
 **Description:** This includes the following:
-- **Week-1: Module 1**
+- **Week 1: Module 1**
   - Google Cloud Architecture
     - Security
       - Google IAM
@@ -57,7 +82,7 @@
       - Dremel
       - Pub/Sub
       - Tensorflow etc
-  - Lab 1 (BigQuery)
+  - **Lab 1 (BigQuery)**
     - Query a public dataset
     - Create a custom table
     - Load data into a table
