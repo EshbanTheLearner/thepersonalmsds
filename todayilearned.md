@@ -2,6 +2,27 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 71 | March 24, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 1**
+  - Modern Data Pipeline Challenges
+  - Message-Oriented Architectures
+  - Serverless Data Pipelines
+    - Designing Streaming Pipelines with Apache Beam
+    - Implementing Streaming Pipelines on Cloud DataFlow
+  - Data Visualization with Data Studio
+    - Building Collaborative Dashboards
+    - Tips and Tricks to create Charts with the Data Studio UI
+  - **Lab 4 (Data Streaming Pipeline)**
+    - Connect to a streaming data Topic in Cloud Pub/sub
+    - Ingest streaming data with Cloud Dataflow
+    - Load streaming data into BigQuery
+    - Analyze and visualize the results
+
+
 ## Day 70 | March 23, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
