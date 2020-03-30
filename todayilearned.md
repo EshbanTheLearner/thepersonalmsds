@@ -2,6 +2,29 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 77 | March 30, 2020 | Monday
+
+**Today's Progress:** Today I started the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
+
+**Description:** This includes the following:
+- Introduction
+  - Bash/Shell
+  - Terminal
+  - Shell
+  - Console
+- Navigation
+  - Listing Folder Contents
+  - Print Current Folder
+  - Change Folder
+  - Using a Stack to Push Folders
+  - Check File Type
+  - Find File By Name & Update Locate Database
+  - Find a Command
+  - Show Command History
+
+**Important Links:** 
+[Udemy | Bash Scripting, Linux and Shell Programming Complete Guide](https://www.udemy.com/course/bash-scripting-course/)
+
 ## Day 76 | March 29, 2020 | Sunday
 
 **Today's Progress:** Today I completed the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
