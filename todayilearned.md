@@ -2,6 +2,30 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 79 | April 1, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
+
+**Description:** This includes the following:
+- Users
+  - Run Commands as Superuser
+  - Change User
+  - Show Effecter User and Group IDs
+- Killing Programs and Logging Out
+  - Kill A Running Command
+  - Kill All Processes By a Name
+  - Logging Out of Bash 
+- Shortcuts
+  - No More Input
+  - Clear Screen
+  - Zoom In
+  - Zoom Out
+  - Moving the Cursor
+  - Deleting Text
+  - Fixing Typos
+  - Cutting and Pasting
+  - Character Capitalization
+
 ## Day 78 | March 31, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
