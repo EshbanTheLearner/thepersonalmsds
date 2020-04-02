@@ -2,6 +2,37 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 80 | April 2, 2020 | Thursday
+
+**Today's Progress:** Today I completed the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
+
+**Description:** This includes the following:
+- Bash Scripting
+  - Bash File Structure
+  - Echo Command
+  - Comments
+  - Variables
+  - Strings
+  - Loops
+    - While
+    - For
+    - Until
+    - Break & Continue
+  - User Input
+  - Conditional Statements
+  - Case Statements
+  - Command Line Arguments
+  - Functions
+    - Global vs Local Variables
+  - Arrays
+  - Shell & Environment Variables
+  - Scheduled Automation
+  - Aliases
+  - Wildcards
+  - Multiple Commands
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 79 | April 1, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
