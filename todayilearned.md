@@ -25,9 +25,13 @@
 
 **Important Links:** 
 [Article 1 | Introduction to Recommender Systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
+
 [Article 2 | Recommender Systems in Practice](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
+
 [Article 3 | Recommender Systems with Deep Learning Architectures](https://towardsdatascience.com/recommender-systems-with-deep-learning-architectures-1adf4eb0f7a6)
+
 [Article 4 | RecSys Series Part 2: The 10 Categories of Deep Recommendation Systems That Academic Researchers Should Pay Attention To](https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58)
+
 [Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
 
