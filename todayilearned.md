@@ -26,6 +26,7 @@
   - Portfolio Value
 - Minimal Trading Bot Implementation in Tensorflow 2.0
 
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
 
 ## Day 81 | April 3, 2020 | Friday
 
@@ -48,7 +49,8 @@
   - Embeddings
 - Simple Movie Recommender System (TensorFlow 2.0)
 
-**Important Links:** 
+**Important Links:**
+ 
 [Article 1 | Introduction to Recommender Systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 
 [Article 2 | Recommender Systems in Practice](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
