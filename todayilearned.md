@@ -2,6 +2,31 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 82 | April 4, 2020 | Saturday
+
+**Today's Progress:** Today I studied about **Reinforcement Learning for Stock Trading**
+
+**Description:** This includes the following:
+- Intro to Reinforcement Learning
+- Deep Q-Learning
+- Defining States
+  - Time Series (Fixed Window)
+  - Cash in Hand
+  - Buying Current Stocks to Buy Better Stocks
+- Defining Actions
+  - Buy/Sell/Hold Stock
+  - For N stocks, 3^N possibilities
+  - How many stocks to sell/buy?
+- Simplified Actions
+  - Ignore Transaction Costs
+  - Avoid Knapsack Problem
+  - Buy Multiple Stocks in Round Robin Fashion
+  - Sell before Buy
+- Defining Rewards
+  - Portfolio Value
+- Minimal Trading Bot Implementation in Tensorflow 2.0
+
+
 ## Day 81 | April 3, 2020 | Friday
 
 **Today's Progress:** Today I studied about **Recommendation Systems**
