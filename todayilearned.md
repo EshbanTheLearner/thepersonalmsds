@@ -2,6 +2,30 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 85 | April 7, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Data Science: From Prediction to Production** on Udemy.
+
+**Description:** This includes the following:
+- How to Plan the Development
+  - The Path from Concept to Production
+    - Theoretical Framework
+    - High Level Design
+    - Iteration 0
+    - Dry Runs
+    - Live Tests
+  - How to Measure you Progress
+    - Breakthroughs
+      - Solid Theoretical Framework
+      - Start Live Tests
+      - Successful Live Tests
+  - Scrum or Kanban
+  - How to Make Time Assessments
+    - Complexity Risk
+    - Technology Risk
+    - Tasks Risk
+
+
 ## Day 84 | April 6, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Data Science: From Prediction to Production** on Udemy.
