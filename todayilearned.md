@@ -2,6 +2,24 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 88 | April 10, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 1**
+  - Cloud Data Fusion
+    - Introduction
+    - Components of Data Fusion
+    - Building a Pipeline
+    - Exploring Data using Wrangler
+  - **Lab 2: Cloud Data Fusion**
+    - Connecting Cloud Data Fusion to a couple of data sources
+    - Applying basic transformations
+    - Joining two data sources
+    - Writing data to a sink
+
+
 ## Day 87 | April 9, 2020 | Thursday
 
 **Today's Progress:** Today I enrolled in the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
