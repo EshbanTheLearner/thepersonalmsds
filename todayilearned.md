@@ -2,6 +2,27 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 94 | April 16, 2020 | Thursday
+
+**Today's Progress:** Today I continued with the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 1**
+  - Streaming into BigQuery
+    - Streaming 
+    - Visualizing Results
+  - **Lab 3: Streaming Analytics and Dashboards**
+    - Connecting to a BigQuery data source
+    - Creating reports and charts to visualize BigQuery data
+- **Week 2: Module 2**
+  - Streaming into Cloud BigTable
+    - High-Throughput Streaming with Cloud Bigtable
+    - Optimizing Cloud Bigtable Performance
+  - **Lab 4: Streaming Data Pipelines into Bigtable**
+    - Launching Dataflow pipeline to read from Pub/Sub and writing into Bigtable
+    - Opening an HBase shell to query the Bigtable database
+
+
 ## Day 93 | April 15, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
