@@ -36,6 +36,7 @@
     - Auto ML NLP
     - Auto ML Tables
 
+[Certificate | Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/account/accomplishments/certificate/BVJPCXG8SP2V)
 
 ## Day 96 | April 18, 2020 | Saturday
 
