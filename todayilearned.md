@@ -2,6 +2,32 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 99 | April 21, 2020 | Tuesday
+
+**Today's Progress:** Today I conrinued the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
+
+**Description:** This includes the following:
+- Hidden Markov Models for Discrete Observations
+  - From Markov Models to Hidden Markov Models
+    - Latent Variables
+  - HMMs are Doubly Embedded
+  - How to choose the number of Hidden States
+    - K-Fold Cross-Validation
+  - The Forward-Backward Algorithm
+  - The Viterbi Algorithm
+  - The Baum-Welch Algorithm
+    - The Expectation-Maximization Algorithm
+    - Lagrange Multipliers
+  - Baum-Welch Updates for Multiple Observations
+  - The Underflow Problem and its Solution
+    - Viterbi (Applying Log)
+    - Scaling Forward
+    - Scaling Backward
+  - Implementation of Discrete HMM in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+
 ## Day 98 | April 20, 2020 | Monday
 
 **Today's Progress:** Today I enrolled in the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
