@@ -2,7 +2,7 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
-## Day 100 | April 21, 2020 | Tuesday
+## Day 100 | April 22, 2020 | Wednesday
 
 **Today's Progress:** Today I completed the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
 
