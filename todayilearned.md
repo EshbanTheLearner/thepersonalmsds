@@ -2,9 +2,30 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
+## Day 100 | April 21, 2020 | Tuesday
+
+**Today's Progress:** Today I completed the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
+
+**Description:** This includes the following:
+- Discrete HMMs using Deep Learning Libraries
+  - Gradient Descent
+  - Discrete HMM in Tensorflow
+- HMMs for Continuous Observations
+  - Gaussian Mixture Models with Hidden Markov Models
+  - Generating Data from a Real-Valued HMM
+  - Continuous HMM in Tensorflow
+- HMMs for Classification
+  - Generative vs Discriminative Classifiers
+  - HMM Classification on Poetry Data
+- Parts-of-Speech Tagging
+  - PoS Tagging Concepts
+  - PoS Tagging with an HMM
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ## Day 99 | April 21, 2020 | Tuesday
 
-**Today's Progress:** Today I conrinued the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
+**Today's Progress:** Today I continued the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
 
 **Description:** This includes the following:
 - Hidden Markov Models for Discrete Observations
