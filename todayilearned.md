@@ -6,7 +6,7 @@
 
 ### Day 45 | November 5, 2020 | Thursday
 
-**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+**Today's Progress:** Today I concluded the **Credit Risk Modeling in Python 2020** course on Udemy.
 
 **Description:** This includes the following:
 - Calculating Expected Loss
