@@ -4,6 +4,38 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 47 | November 7, 2020 | Saturday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 2 - Word Vectors and Word Senses
+  - Optimization Basics
+    - Gradient Descent
+    - Stochastic Gradient Descent
+  - Word2Vec Review
+    - Skip-Grams
+    - Continuous Bag of Words
+    - Negative Sampling
+    - Unigram Distribution
+  - Can we capture this essence more effectively by counting?
+    - Co-Occurence Matrix
+      - Window
+      - Full Document
+    - Problems and Solutions
+    - Singular Value Decomposition (SVD)
+  - The GloVe Model of Word Vectors
+    - Count Based vs Direct Prediction
+    - Encoding Meaning in Vector Differences
+    - Log-Bilinear Model with Vector Differences
+    - GloVe
+  - Evaluating Word Vectors
+    - Intrinsic 
+      - Word Vector Analogies
+      - Human Judgement
+      - Correlation Judgement
+    - Extrinsic
+
 ### Day 46 | November 6, 2020 | Friday
 
 **Today's Progress:** Today I started the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
@@ -24,6 +56,8 @@
     - Gradient Descent
     - Stochastic Gradient Descent
   - Looking at Word Vectors
+
+[YouTube | Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 ### Day 45 | November 5, 2020 | Thursday
 
@@ -723,7 +757,7 @@ Coursera | [Natural Language Processing with Sequence Models](https://www.course
   - Nonlinear Regression
     - Neural Networks
 
-YouTube | [Introduction to Optimization](https://www.youtube.com/playlist?list=PLDFB2EEF4DDAFE30B)
+[YouTube | Introduction to Optimization](https://www.youtube.com/playlist?list=PLDFB2EEF4DDAFE30B)
 
 ### Day 05 | September 26, 2020 | Saturday
 
